@@ -1,0 +1,15 @@
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\bin\Debug\net6.0\aaaa.exe
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\bin\Debug\net6.0\aaaa.deps.json
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\bin\Debug\net6.0\aaaa.runtimeconfig.json
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\bin\Debug\net6.0\aaaa.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\bin\Debug\net6.0\aaaa.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.csproj.AssemblyReference.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.AssemblyInfoInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.AssemblyInfo.cs
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.csproj.CoreCompileInputs.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\refint\aaaa.dll
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.pdb
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\aaaa.genruntimeconfig.cache
+C:\Users\gulfs\OneDrive\Рабочий стол\bbbb\aaaa\obj\Debug\net6.0\ref\aaaa.dll
